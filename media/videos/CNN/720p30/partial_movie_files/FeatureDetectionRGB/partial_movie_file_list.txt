@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/FeatureDetectionRGB/2016333726_3303022399_1813664655.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/FeatureDetectionRGB/543634251_559374507_1829332714.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/FeatureDetectionRGB/543634251_355591101_2399821742.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/FeatureDetectionRGB/543634251_2844360058_629046160.mp4'

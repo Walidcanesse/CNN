@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/KernelSizeAndDepth/1185818338_3829563361_2525618360.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/KernelSizeAndDepth/624642324_4217992463_651689980.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/KernelSizeAndDepth/624642324_631546415_3822065765.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/KernelSizeAndDepth/624642324_4217992463_57760411.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/KernelSizeAndDepth/624642324_2280495513_2486544956.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/KernelSizeAndDepth/624642324_2844360058_1663296307.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/ConvMatrixExample/2016333726_13425163_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/ConvMatrixExample/543634251_3932249147_1798339246.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/ConvMatrixExample/543634251_4084015542_2558334924.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/ConvMatrixExample/543634251_3394500337_930676844.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/ConvMatrixExample/543634251_1945058086_3123018785.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/ConvMatrixExample/543634251_2834709167_2698624711.mp4'

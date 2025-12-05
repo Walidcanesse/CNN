@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/1185818338_1498163130_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_955935087_2694127398.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_3394500337_1989767758.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_3315513283_240834356.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_2242912708_1604647651.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_3394500337_4080531927.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_3509137218_2214556630.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_3953960253_3657805086.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingOneByOneEng/624642324_1432596116_2359602289.mp4'

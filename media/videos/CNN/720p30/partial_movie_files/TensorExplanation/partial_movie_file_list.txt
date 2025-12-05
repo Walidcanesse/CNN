@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/2016333726_3178150848_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_3394500337_613926876.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_903222070_3478221464.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_3394500337_2621421510.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_4080201795_3338446523.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_3394500337_2920138182.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_2805104729_2590873111.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_1893264265_1800344586.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TensorExplanation/543634251_2844360058_3120276019.mp4'

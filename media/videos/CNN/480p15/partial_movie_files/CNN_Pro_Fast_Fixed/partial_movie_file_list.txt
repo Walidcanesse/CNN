@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/1185818338_1477713218_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_1568740886_1139547850.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_2330827494_3181418557.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_2514011427_3188001767.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_3107806956_919326040.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_1838087801_1052651591.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_2280388058_3810602979.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_4094040944_4191021660.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_1413929930_217777265.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_351715439_815628750.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/CNN_Pro_Fast_Fixed/624642324_4217992463_1187647733.mp4'

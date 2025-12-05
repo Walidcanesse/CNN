@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/DimensionExamplesSideBySide/2016333726_193063061_2822725687.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/DimensionExamplesSideBySide/543634251_1321802805_107752772.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/DimensionExamplesSideBySide/543634251_2552855209_1470090970.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RGBAbstractTensor/2016333726_1872688224_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RGBAbstractTensor/543634251_1165517180_4046691311.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RGBAbstractTensor/543634251_4145708111_288931131.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RGBAbstractTensor/543634251_2847831795_3103597955.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RGBAbstractTensor/543634251_839723907_3866152536.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RGBAbstractTensor/543634251_2844360058_3292759152.mp4'

@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/1185818338_3931528891_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_571452634_1491213326.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_3366045169_1674118397.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_2447965184_2555044120.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_4217992463_479684003.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_1326449269_1533487635.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_3780641634_961786826.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_2844360058_3530516510.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_2979371115_818451624.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_858173637_2227387884.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvToNeuralNetDemoFixed/624642324_2552855209_1071038388.mp4'

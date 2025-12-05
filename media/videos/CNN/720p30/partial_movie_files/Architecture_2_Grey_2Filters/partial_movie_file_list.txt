@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Architecture_2_Grey_2Filters/2016333726_383245_3847402167.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Architecture_2_Grey_2Filters/543634251_1073973385_670835741.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Architecture_2_Grey_2Filters/543634251_3608061796_2703694963.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Architecture_2_Grey_2Filters/543634251_796289767_1984388124.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Architecture_2_Grey_2Filters/543634251_2844360058_3701581584.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Architecture_2_Grey_2Filters/543634251_1876413896_3854809886.mp4'

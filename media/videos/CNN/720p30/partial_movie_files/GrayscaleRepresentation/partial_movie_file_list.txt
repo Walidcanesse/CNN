@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/GrayscaleRepresentation/2016333726_2616383058_1202879108.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/GrayscaleRepresentation/543634251_3394500337_2398761234.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/GrayscaleRepresentation/543634251_3462590103_2228954777.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/GrayscaleRepresentation/543634251_1377707309_1141211466.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/GrayscaleRepresentation/543634251_3366045169_3005524959.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/GrayscaleRepresentation/543634251_2181976170_158459868.mp4'

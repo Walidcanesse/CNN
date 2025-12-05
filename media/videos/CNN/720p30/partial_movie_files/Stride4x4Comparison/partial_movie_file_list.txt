@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/2016333726_2285850645_1531165633.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_2572931998_1531165633.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_3734578080_1531165633.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_1141555386_1531165633.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_3507411913_1531165633.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_3101638641_2902152808.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_4098939355_2902152808.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_718703065_2902152808.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_70674973_2902152808.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_3270753664_2902152808.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/Stride4x4Comparison/543634251_4217992463_3045679850.mp4'

@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2522730997_924929883_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_1770984424_2240154731.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_3082277144_1556929053.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_1614710230_3642504152.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_3672889557_2271661758.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_1701463062_3752612358.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_2322515440_517301991.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_902846674_3584285284.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/TinyCNN_ImageInput/2726733059_2844360058_2194185506.mp4'

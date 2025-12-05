@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/1185818338_3563822663_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/624642324_2079474376_4108369475.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/624642324_3366045169_3502403754.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/624642324_1664668371_3775498371.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/624642324_3366045169_4132411210.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/624642324_3717856209_3180784682.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/PaddingDemonstrationFixed/624642324_2844360058_3887922980.mp4'

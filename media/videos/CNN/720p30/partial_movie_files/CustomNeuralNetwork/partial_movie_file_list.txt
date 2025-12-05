@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/CustomNeuralNetwork/1267111531_3411845982_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/CustomNeuralNetwork/2952706928_948371353_3025111001.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/CustomNeuralNetwork/2952706928_2573995602_3545585343.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/CustomNeuralNetwork/2952706928_2872244128_3078054852.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/CustomNeuralNetwork/2952706928_1219373736_4285659993.mp4'

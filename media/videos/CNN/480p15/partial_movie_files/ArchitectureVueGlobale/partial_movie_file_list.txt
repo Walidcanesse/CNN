@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/1185818338_181309212_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_2691547699_1466205179.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_2292830728_2649055892.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_3469959087_283708944.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_4252972574_933272102.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_4176280112_732879105.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_3597796248_1674643192.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ArchitectureVueGlobale/624642324_4217992463_3783670607.mp4'

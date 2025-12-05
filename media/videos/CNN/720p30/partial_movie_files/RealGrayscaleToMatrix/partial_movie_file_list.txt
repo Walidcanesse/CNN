@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RealGrayscaleToMatrix/2016333726_1398051043_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RealGrayscaleToMatrix/543634251_3394500337_4032455801.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RealGrayscaleToMatrix/543634251_769209725_2193397320.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RealGrayscaleToMatrix/543634251_767437085_4157709676.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/720p30/partial_movie_files/RealGrayscaleToMatrix/543634251_2872842549_2743071046.mp4'

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/1185818338_847106346_223132457.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_3657190602_904767826.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_3776941661_3866403220.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_3891411032_377008840.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_1045775840_2321306772.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_2844360058_931370484.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_4224428156_3781437136.mp4'
+file 'file:C:/Users/walid/Desktop/CNN/media/videos/CNN/480p15/partial_movie_files/ConvDimensionsGeneric/624642324_4217992463_4079115368.mp4'
